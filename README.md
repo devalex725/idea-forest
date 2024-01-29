@@ -11,7 +11,7 @@
   </li>
 
   <li>
-💞️ I’m looking to collaborate on **Robosensei**    
+💞️ I’m looking to collaborate on **AI**    
   </li>
 
   <li>
