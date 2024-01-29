@@ -1,3 +1,8 @@
+<p>
+I'm a passionate .NET developer with expertise in building robust, scalable, and maintainable applications using the .NET framework and its ecosystem. 
+As a collaborative team player, I stay up-to-date with the latest .NET advancements and best practices, ensuring high-quality software solutions that meet and exceed expectations. .  
+</p>
+
 <h1 align="center">Hi 👋, I'm Alex Konan (idea-forest)</h1>
 <h3 align="center">A passionate .NET Developer.</h3>
 
@@ -11,6 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://t.me/alexkonan0705">
+    <img src="blob:https://web.telegram.org/114cef79-2718-41df-8356-9c7b5feb8007" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
