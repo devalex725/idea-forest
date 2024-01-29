@@ -1,9 +1,6 @@
 <h1 align="center">👋 Hi, I’m @idea-forest </h1>
 <h3 align="center"> 8 years Experienced .Net Developer </h3>
 
-<br/>
-<br/>
-
 <ul>
   <li>
 👀 I’m interested in **.Net** Framework.    
@@ -24,12 +21,10 @@
   </li>
 </ul>
 
-
-
-
 <br/>
-<br/>
-
+<p>
+  <h3>Language & Tools</h3>
+</p>
 <!---
 idea-forest/idea-forest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
