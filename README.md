@@ -1,5 +1,5 @@
-<center><h1>👋 Hi, I’m @idea-forest </h1></center>
-<center><h3> 8 years Experienced .Net Developer </h3></center>
+<h1 align="center">👋 Hi, I’m @idea-forest </h1>
+<h3 align="center"> 8 years Experienced .Net Developer </h3>
 
 <br/>
 <br/>
