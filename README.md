@@ -2,6 +2,11 @@
 <h1 align="center">👋 Hi, I’m @idea-forest </h1>
 <h3 align="center"> 8 years Experienced .Net Developer </h3>
 
+<p>
+  I'm a passionate .NET developer with expertise in building robust, scalable, and maintainable applications using the .NET framework and its ecosystem. <br/>
+As a collaborative team player, I stay up-to-date with the latest .NET advancements and best practices, ensuring high-quality software solutions that meet and exceed expectations. .
+</p>
+
 <ul>
   <li>
 👀 I’m interested in **.Net** Framework.    
