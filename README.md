@@ -3,21 +3,22 @@
 
 <br/>
 <br/>
+
 <ul>
   <li>
-- 👀 I’m interested in **.Net** Framework.    
+👀 I’m interested in **.Net** Framework.    
   </li>
 
   <li>
-- 🌱 I’m currently learning **Machine Learning**.    
+🌱 I’m currently learning **Machine Learning**.    
   </li>
 
   <li>
-- 💞️ I’m looking to collaborate on **Robosensei**    
+💞️ I’m looking to collaborate on **Robosensei**    
   </li>
 
   <li>
-- 📫 How to reach me
+📫 How to reach me <br/>
   https://t.me/alexkonan0705 <br/>
   dev.alex725@gmail.com    
   </li>
