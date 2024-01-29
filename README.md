@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @idea-forest
+<center><h1>👋 Hi, I’m @idea-forest </h1></center>
+<center><h3> 8 years Experienced .Net Developer </h3></center>
+
+<br/>
+<br/>
 - 👀 I’m interested in **.Net** Framework.
 - 🌱 I’m currently learning **Machine Learning**.
 - 💞️ I’m looking to collaborate on **Robosensei**
 - 📫 How to reach me
   https://t.me/alexkonan0705
   dev.alex725@gmail.com
+<br/>
+<br/>
 
 <!---
 idea-forest/idea-forest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
