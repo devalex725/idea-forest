@@ -1,7 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Alex Konan (idea-forest)</h1>
-<h3 align="center">A passionate .NET Developer.</h3>
+<h3 align="center">
+  <a href="https://t.me/alexkonan0705"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&height=80&lines=A+Passionate+.Net+Developer;6%2B+years+Full+Stack+Developer+" alt="Typing SVG" /></a>
+</h3>
 
 <p>
 I'm a passionate .NET developer with expertise in building robust, scalable, and maintainable applications using the .NET framework and its ecosystem. 
