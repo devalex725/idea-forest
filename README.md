@@ -13,22 +13,13 @@ As a collaborative team player, I stay up-to-date with the latest .NET advanceme
  
 <br/>
 <p align="center">
-  <div>
-    🔭 I’m currently working on [Robosensei](https://dev.robosensei.net)
-  </div>
-
-  <div>
-    🌱 I’m currently learning **ML.**
-  </div>
-
-  <div>
-    💬 Ask me about **C/C++, C#, React, Node**
-  </div>
-
-  <div>
-    📫 How to reach me **dev.alex725@gmail.com**
-  </div>
- 
+  🔭 I’m currently working on [Robosensei](https://dev.robosensei.net)
+  
+  🌱 I’m currently learning **ML.**
+  
+  💬 Ask me about **C/C++, C#, React, Node**
+  
+  📫 How to reach me **dev.alex725@gmail.com**
  </p>
 
 
