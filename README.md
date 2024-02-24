@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Alex Konan (idea-forest)</h1>
+<h1 align="center">Hi 👋, I'm Stefan Stanojevic (idea-forest)</h1>
 <h3 align="center">
   <a href="https://t.me/alexkonan0705"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=3000&pause=500&center=true&vCenter=true&multiline=true&random=false&width=435&height=90&lines=A+Passionate+.Net+Developer;6%2B+years+hands+on+experience+;Full+stack+developer" alt="Typing SVG" /></a>
 </h3>
