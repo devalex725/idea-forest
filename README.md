@@ -6,6 +6,8 @@
   <a href="https://t.me/alexkonan0705"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=3000&pause=500&center=true&vCenter=true&multiline=true&random=false&width=435&height=90&lines=A+Passionate+.Net+Developer;6%2B+years+hands+on+experience+;Full+stack+developer" alt="Typing SVG" /></a>
 </h3>
 
+<img src="https://github.com/idea-forest/idea-forest/blob/main/Logo.gif" />
+
 <p>
 I'm a passionate .NET developer with expertise in building robust, scalable, and maintainable applications using the .NET framework and its ecosystem. 
 As a collaborative team player, I stay up-to-date with the latest .NET advancements and best practices, ensuring high-quality software solutions that meet and exceed expectations. .  
