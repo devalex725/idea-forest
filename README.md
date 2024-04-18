@@ -17,8 +17,6 @@ As a collaborative team player, I stay up-to-date with the latest .NET advanceme
  
 <br/>
 
-- 🔭 I’m currently working on [Robosensei](https://dev.robosensei.net)
-
 - 🌱 I’m currently learning **ML.**
 
 - 💬 Ask me about **C/C++, C#, React, Node**
