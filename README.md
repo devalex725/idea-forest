@@ -2,27 +2,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Stefan Stanojevic (idea-forest)</h1>
-<h3 align="center">
-  <a href="https://t.me/alexkonan0705"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=3000&pause=500&center=true&vCenter=true&multiline=true&random=false&width=435&height=90&lines=A+Passionate+.Net+Developer;6%2B+years+hands+on+experience+;Full+stack+developer" alt="Typing SVG" /></a>
-</h3>
+
 
 <a style="display:block;margin-left:auto;margin-right:auto;" href="#">
   <img src="https://github.com/idea-forest/idea-forest/blob/main/Logo.gif" align="center" />
 </a>
 
-<p>
-I'm a passionate .NET developer with expertise in building robust, scalable, and maintainable applications using the .NET framework and its ecosystem. 
-As a collaborative team player, I stay up-to-date with the latest .NET advancements and best practices, ensuring high-quality software solutions that meet and exceed expectations. .  
-</p>
- 
 <br/>
 
 - 🌱 I’m currently learning **ML.**
-
-- 💬 Ask me about **C/C++, C#, React, Node**
-
- 
-
+- 💬 Ask me about **C/C++, C#, React, Node, Java, Python**
 
 <h3 align="left">Connect with me:</h3> 
 
