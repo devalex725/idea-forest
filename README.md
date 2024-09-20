@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Stefan Stanojevic (idea-forest)</h1>
 
 
